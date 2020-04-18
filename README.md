@@ -1,28 +1,11 @@
-# This is a large heading
+# Nick
 
-## This is a smaller heading
+### Geography
+I live in the city of Brandenburg, in the land of Brandenburg, in Germany
 
-And as **imagination** bodies forth
-the forms of things *unknown*
-**name**
+Two of my favorite books are:
+- *Game of Thrones*
+- *The Breach*
 
-- this is 
-- an unordered
-- list
-
-1. This is 
-2. an ordered 
-3. list
-
-here is 'some code' in the middle of a sentence
-
-'''
-this is
-a block
-of code
-'''
-
-here is how to make [a link](https://www.wikipedia.org/)
-
-![thos os an image.](github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
-
+### Food
+*I **love** noodles*
